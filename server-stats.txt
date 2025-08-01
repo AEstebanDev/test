@@ -1,1 +1,15 @@
-Hola 
+# Server Stats Test File
+Fecha: 2025-08-01
+Servidor: test-server-01
+Estado: OK
+
+CPU: 15%
+RAM: 37%
+Disco: 91GB libres
+
+Usuarios conectados: 3
+Procesos activos: 42
+
+Último reinicio: 2025-07-31 03:22:10
+
+--- FIN DE TEST ---
