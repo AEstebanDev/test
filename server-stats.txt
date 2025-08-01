@@ -1,1 +1,2 @@
-XPMultiplier = 2
+HarvestAmountMultiplier=10
+XPMultiplier=10
